@@ -13,7 +13,7 @@ See the [server instruction](SERVER.md) for server settup.
 ```bash
 pip install http://download.pytorch.org/whl/cu80/torch-0.1.12.post2-cp27-none-linux_x86_64.whl
 pip install torchvision
-git clone https://github.com/
+git clone https://github.com/Abhishek-Aditya-bs/Cifar-10-and-Cifar-100-Pytorch
 ```
 
 ## How to run
